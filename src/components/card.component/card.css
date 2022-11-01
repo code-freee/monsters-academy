@@ -1,0 +1,14 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color:#95dada;
+    transition: transform ease-in-out 0.25s;
+    -moz-osx-font-smoothing: grayscale;
+    backface-visibility: hidden;
+}
+.card:hover{
+    transform: scale(1.05);
+}
