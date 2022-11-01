@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-academy/static/css/main.1d640ff6.css",
+    "main.js": "/monsters-academy/static/js/main.4b6057a0.js",
+    "static/js/787.26a2bc24.chunk.js": "/monsters-academy/static/js/787.26a2bc24.chunk.js",
+    "index.html": "/monsters-academy/index.html",
+    "main.1d640ff6.css.map": "/monsters-academy/static/css/main.1d640ff6.css.map",
+    "main.4b6057a0.js.map": "/monsters-academy/static/js/main.4b6057a0.js.map",
+    "787.26a2bc24.chunk.js.map": "/monsters-academy/static/js/787.26a2bc24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d640ff6.css",
+    "static/js/main.4b6057a0.js"
+  ]
+}
